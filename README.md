@@ -1,6 +1,6 @@
-# Flask-Bootstrap (Em progresso)
+# Flask-Bootstrap (In progress)
 
-## O que são:
+## What are:
 
 * MVC = MODEL/VIEW/CONTROLLER
 * CRUD = CREATE/READ/UPDATE/DELETE
